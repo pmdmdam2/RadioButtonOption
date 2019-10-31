@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButtonOption</string>
+    <string name="qu_quieres_aprender">¿Qué quieres aprender?</string>
+    <string name="c_c">C/C++</string>
+    <string name="estructuras_de_datos">Estructuras de datos</string>
+    <string name="algoritmos">Algoritmos</string>
+    <string name="enviar">Enviar</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
